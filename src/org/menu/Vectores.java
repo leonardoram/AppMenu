@@ -87,7 +87,11 @@ public class Vectores {
 		return alsuma;
 	}
 	
+<<<<<<< HEAD
 	public int[] sumaTresVectores(int[] vec1,int [] vec2,int [] vec3) 
+=======
+	public int[] sumaTresVectores(int[] vec1,int [] vec2,int [] vec3) // ejercicio de suma de 3 vectores 
+>>>>>>> branch 'master' of https://github.com/leonardoram/AppMenu.git
 	{
 		int [] vecSuma = new int [vec1.length];
 		

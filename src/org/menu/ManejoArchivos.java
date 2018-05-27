@@ -70,6 +70,7 @@ public class ManejoArchivos{
 		}
 	}
 	
+<<<<<<< HEAD
 //	public String tabla_multiplicar(int limLargo, int limBajo)
 //	{
 //		String tabla="";
@@ -82,6 +83,20 @@ public class ManejoArchivos{
 //		}
 //		return tabla;
 //	}
+=======
+	public String tabla_multiplicar(int limLargo, int limBajo)
+	{
+		String tabla="";
+		for(int cont = 1; cont <=limBajo; cont++)
+		{
+			for(int cont2=1; cont<= limLargo; cont2++)
+			{
+				tabla = tabla + " "+cont+" x "+limBajo+ " "+(cont);
+			}
+		}
+		return tabla;
+	}
+>>>>>>> branch 'master' of https://github.com/leonardoram/AppMenu.git
 
 
 }

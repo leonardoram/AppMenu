@@ -32,5 +32,10 @@ public class Par_impar {
 	
 	
 	
+<<<<<<< HEAD
+=======
+	
+	
+>>>>>>> branch 'master' of https://github.com/leonardoram/AppMenu.git
 
 }
