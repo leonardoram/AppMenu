@@ -17,6 +17,7 @@ public class Primos {
 
 		return primo;
 	}
+	
 
 	public int Primo_limites(int rInicial, int rFinal )
    {	
